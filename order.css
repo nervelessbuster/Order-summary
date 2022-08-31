@@ -9,6 +9,11 @@ body{
 
 }
 
+section{
+    padding: 10px;
+}
+
+
 .container{
     width: 25em;
     height: 90vh;
@@ -109,6 +114,7 @@ body{
 
     .container{
         width: 18em;
+        height: 90vh;
         margin: 0 auto;
         background-color: white;
         text-align: center;
@@ -150,7 +156,7 @@ body{
 
     .container{
         width: 25em;
-        height: 70vh;
+        height: 90vh;
         margin: 0 auto;
         background-color: white;
         text-align: center;
